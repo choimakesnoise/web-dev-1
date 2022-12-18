@@ -3,7 +3,6 @@ h1
         font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         border: 4px solid green;
         color: red;
-        display: inline;
         padding: 2px;
     }
 p
@@ -18,6 +17,8 @@ h2
     }
 body
 {
-    margin: 0 auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     background-color: gray;
 }
