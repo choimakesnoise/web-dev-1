@@ -1,0 +1,27 @@
+body {
+    background-color: gray
+  }
+  h1 {
+    color: white
+  }
+  .blue {
+      color: blue
+    }
+  img {
+    max-height: 260px;
+  }
+  h1 {
+    font-family: Arial
+  }
+  h2 {
+    font-family: Arial
+  }
+  ul {
+    font-family: Cursive
+  }
+  .favsong {
+    font-size: 18px
+  }
+  .favsong {
+    color: orange
+  }
