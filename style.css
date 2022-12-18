@@ -3,9 +3,9 @@ h1
         font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         text-align: center;
         border: 4px solid green;
-        display: inline-block;
         color: red;
-        position: relative;
+        display: inline-block;
+        position: absolute;
         
     }
 p
