@@ -19,7 +19,7 @@ h2
 body
 {
     position: absolute;
-    right: 0px;
-    width: 300px;
+    right: 50%;
+    width: 50%;
     background-color: gray;
 }
