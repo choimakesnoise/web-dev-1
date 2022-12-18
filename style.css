@@ -6,19 +6,17 @@ h1
         padding: 3px;
         display: inline-block;
         position: relative;
-        text-align: center;
-        margin: 0 auto;
     }
 p
     {
         font-family: Impact;
-        text-align: center;
+        
     }
 h2
     {
         font-family: Impact;
         text-decoration: underline;
-        text-align: center;
+        
     }
 body
     {
