@@ -2,10 +2,12 @@ body {
     width: 100%;
     font-family: Impact;
     text-align: center;
-    color: green;
 }
 
 img {
     width: 650px;
     height: 650px;
+}
+h1 {
+    color: green;
 }
