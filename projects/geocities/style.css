@@ -1,0 +1,27 @@
+.box {
+    background-color: pink;
+    padding: 2rem;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    z-index: 999;
+  }
+  .box2 {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    border: 5px solid orangered;
+    position: fixed;
+    top: 0;
+    right: 0;  
+  }
+  body {
+     background: linear-gradient(45deg, red, blue);
+    
+    min-height: 100vh;
+  }
+  .box:hover {
+    background-color: orange;
+    width: 400px;
+    height: 100px;
+  }

@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Sofia');
+body {
+	font-family: 'Poppins', sans-serif;
+  background-color: baige;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 12px;
+  text align: center;
+  color-link: #84e945;
+}
+    h1 {
+      color: #29b188
+  }
+}
+h3 {
+  color: orange
+}
+img {
+  width: 100%;
+  display: block;
+}
+p {
+  line-height: 1.5;
+  text-color: #29b188
+}
+div {
+  background-color: #716d08;
+  padding: 20px;
+  border: 10px dotted #84e945;
+  margin: 40px;
+  text-color: #29b188;
+html {
+  scroll-behavior: smooth;
+:root {
+  --color-body-text: #ee8c21;
+  --color-body-bg: #f7fafa;
+  --color-header-footer-bg: #3d083e;
+  --color-links: #aeadab;
+  --padding-header-footer: 2rem;
+}
